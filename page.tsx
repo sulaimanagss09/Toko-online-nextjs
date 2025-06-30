@@ -1,3 +1,3 @@
-export default function Home() {
-  return <h1 className="text-2xl font-bold">Selamat datang di toko online saya!</h1>
+export default function RegisterPage() {
+  return <h1 className="text-xl">Daftar Akun</h1>
 }
